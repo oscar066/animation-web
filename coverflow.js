@@ -104,7 +104,9 @@ function coverflowimages(options){
 coverflowimages({
    coverid: 'coverflow1',
    images: [
+   	  ['images/oscarSmall.jpeg', 'images/oscar.jpeg', 'OSCAR KARUGA NJOROGE SCT222-0142/2021.'],
       ['images/GamblerSmall.jpeg', 'images/Gambler.jpeg', 'Gambler is an acclaimed artist known for the album "Hit Me With Music".'],
+      ['images/oscarSmall.jpeg', 'images/oscar.jpeg', 'OSCAR KARUGA NJOROGE SCT222-0142/2021.'],
       ['images/indilaSmall.jpeg', 'images/indila.jpeg', 'Indila, the talented artist behind the mesmerizing album "Melodic Dreams".'],
       ['images/fujikazeSmall.jpeg', 'images/fujikaze.jpeg', 'Fujikaze, an artist known for the soothing tunes of the album "Tranquil Echoes".'],
       ['images/stromaeSmall.jpeg', 'images/stromae.jpeg', 'Stromae, the musical genius with the album "Dance Revolution".'],
