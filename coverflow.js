@@ -104,10 +104,10 @@ function coverflowimages(options){
 coverflowimages({
    coverid: 'coverflow1',
    images: [
-      ['images/GamblerSmall.jpeg', 'images/Gambler.jpeg', 'Angelina Jolie, is an American actress and filmmaker, and an Academy Award winner'],
-      ['images/indilaSmall.jpeg', 'images/indila.jpeg', 'Milla Jovovich was born in Ukraine and immigrated with her parents to the United States when she\'s five.'],
-      ['images/fujikazeSmall.jpeg', 'images/fujikaze.jpeg'],
-      ['images/stromaeSmall.jpeg', 'images/stromae.jpeg', 'Hayden Panettiere is a native of New York, and first appeared in a commercial at the age of 11 months.'],
-      ['images/sherif.png', 'images/sherif.png', 'Ashley was born in Granada Hills, California. She is the daughter of Naomi Judd, a country music singer and motivational speaker']
+      ['images/GamblerSmall.jpeg', 'images/Gambler.jpeg', 'Gambler is an acclaimed artist known for the album "Hit Me With Music".'],
+      ['images/indilaSmall.jpeg', 'images/indila.jpeg', 'Indila, the talented artist behind the mesmerizing album "Melodic Dreams".'],
+      ['images/fujikazeSmall.jpeg', 'images/fujikaze.jpeg', 'Fujikaze, an artist known for the soothing tunes of the album "Tranquil Echoes".'],
+      ['images/stromaeSmall.jpeg', 'images/stromae.jpeg', 'Stromae, the musical genius with the album "Dance Revolution".'],
+      ['images/sherif.png', 'images/sherif.png','Sherif is a rising star in the music industry, stay tuned for more from this talented artist.']
    ] // <-- Add a comma here
 });
