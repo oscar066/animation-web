@@ -104,10 +104,10 @@ function coverflowimages(options){
 coverflowimages({
    coverid: 'coverflow1',
    images: [
-      ['images/sherif.png', 'images/sherif.png', 'Angelina Jolie, is an American actress and filmmaker, and an Academy Award winner'],
-      ['images/sherif.png', 'images/sherif.png', 'Milla Jovovich was born in Ukraine and immigrated with her parents to the United States when she\'s five.'],
-      ['images/sherif.png', 'images/sherif.png'],
-      ['images/sherif.png', 'images/sherif.png', 'Hayden Panettiere is a native of New York, and first appeared in a commercial at the age of 11 months.'],
+      ['images/GamblerSmall.jpeg', 'images/Gambler.jpeg', 'Angelina Jolie, is an American actress and filmmaker, and an Academy Award winner'],
+      ['images/stromaeSmall.png', 'images/stromae.jpeg', 'Milla Jovovich was born in Ukraine and immigrated with her parents to the United States when she\'s five.'],
+      ['mages/afroSmall.jpeg', 'images/afro.jpeg'],
+      ['images/stromaeSmall.jpeg', 'images/stromae.jpeg', 'Hayden Panettiere is a native of New York, and first appeared in a commercial at the age of 11 months.'],
       ['images/sherif.png', 'images/sherif.png', 'Ashley was born in Granada Hills, California. She is the daughter of Naomi Judd, a country music singer and motivational speaker']
    ] // <-- Add a comma here
 });
